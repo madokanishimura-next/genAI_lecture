@@ -1,5 +1,28 @@
 # 生成 AI ごっこ
 
+## ダウンロード (Google Colab 利用)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/madokanishimura-next/genAI_lecture/blob/main/intro_genAI.ipynb)
+
+## Google Colab を利用する前に
+
+この教材では Python の処理の流れを理解することを目的としています。
+
+Google Colab の AI 補助機能が表示される場合は、次の手順でオフにしてください。
+
+1. 「ツール」を開く
+2. 「設定」を選択する
+3. 「AI アシスタント」タブを開く
+4. 「生成 AI 機能を非表示」にチェックを入れる
+
+または
+
+4. 「生成 AI 機能の使用に同意する」のチェックを外す
+
+設定は後から元に戻せます。
+
+---
+
 ### 理解しないくせに答えちゃう AI のなかみ教えます
 
 ## AI はなぜわかったふりをして答えちゃうの?
@@ -93,6 +116,10 @@ AI に知らないことを説明してもらったり、考えるきっかけ�
 
 本教材は、その入口として作成されています。
 
+---
+
+## 解答例
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/madokanishimura-next/genAI_lecture/blob/main/intro_genAI_ans.ipynb)
 
 
 ---
@@ -107,6 +134,9 @@ AI に知らないことを説明してもらったり、考えるきっかけ�
 
 ---
 
+
+
+
 ## ライセンス
 
 この教材は Creative Commons Attribution-NonCommercial 4.0 International
@@ -117,4 +147,5 @@ AI に知らないことを説明してもらったり、考えるきっかけ�
 * 商用利用は許可しません。
 
 https://creativecommons.org/licenses/by-nc/4.0/
+
 
