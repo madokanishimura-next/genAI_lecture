@@ -1,2 +1,11 @@
 .DS_Store
 .ipynb_checkpoints/
+.DS_Store
+.ipynb_checkpoints/
+
+# temporary experiments
+appendix_a.ipynb
+copilot_norimaki.png
+copilot_norimaki_dot.png
+norimaki_ascii.png
+norimaki_blocks.png
